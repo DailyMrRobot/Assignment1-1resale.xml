@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/css" href="resale.css"?>
+<!--
+    SJB Pet Boutique Resale Products, Latest Offerings
+
+    File Name: resale.xml
+    Author: Ronnie Johnson
+    Date: 6/2/24
+
+-->
+<resale_products xmlns:prd="http://example.com/sjbpetboutique/resale">
+    <title>Resale Products</title>
+    <subtitle>Latest Offerings</subtitle>
+    <product>
+        <description>8" Hamster Travel Cage</description>
+        <condition>Good</condition>
+        <original_price>$35</original_price>
+        <sale_price>$15</sale_price>
+        <discount>15%</discount>
+
+    </product>
+    <product>
+     <description>Dog and Cat Doorstop</description>
+     <condition>Excellent</condition>
+     <original_price>$70</original_price>
+     <sale_price>$20</sale_price>
+     <discount>10%</discount>
+    </product>
+    
+    <product>
+     <description> Puppy Dog Rhinestone Collar</description>
+     <condition>Excellent</condition>
+     <original_price>$25</original_price>
+     <sale_price>$10</sale_price>
+     <discount>15%</discount>
+    </product>
+    
+    <product>
+     <description>30" Kitty Travel Cage</description>
+     <condition>New</condition>
+     <original_price>$40</original_price>
+     <sale_price>$35</sale_price>
+     <discount>20%</discount>
+    </product>
+    <message>
+        <![CDATA[
+        Interested in resale? The SJB Pet Boutique will publish for resale select items purchased
+    at our store that you or your owner have outgrown.  All sales are "as-is" 
+    condition.  A commission is charged for listing the item for resale.  If your resale item
+    is sold and you purchase a new item at our store using the money from the sale of the item, 
+    you can save 50% off our commission price!
+        ]]>
+        &#9786;
+    </message>
+</resale_products>
